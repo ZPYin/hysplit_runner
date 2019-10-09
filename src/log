@@ -1,0 +1,698 @@
+2019-10-06 13:24:32,457 - logger_init - _search_meteor_file - 165 - gdas1.sep19.w1 cannot be found. Please download it
+2019-10-06 13:39:26,098 - logger_init - run_HYSPLIT - 235 - finished running HYSPLIT.
+2019-10-06 13:45:34,160 - logger_init - run_HYSPLIT - 241 - finished running HYSPLIT.
+2019-10-06 13:53:15,759 - logger_init - run_HYSPLIT - 240 - finished running HYSPLIT.
+2019-10-06 13:53:35,096 - logger_init - run_HYSPLIT - 241 - finished running HYSPLIT.
+2019-10-06 13:54:17,808 - logger_init - run_HYSPLIT - 241 - finished running HYSPLIT.
+2019-10-06 14:15:38,836 - logger_init - run_HYSPLIT - 242 - finished running HYSPLIT.
+2019-10-06 14:19:21,063 - logger_init - run_HYSPLIT_list - 264 -   0.05% finished. Current task 0
+2019-10-06 14:32:00,825 - logger_init - run_HYSPLIT_list - 262 - Running task number: 00000
+2019-10-06 14:48:29,744 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00000
+2019-10-06 14:49:21,921 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00000
+2019-10-06 14:53:55,921 - logger_init - run_HYSPLIT_list - 264 - Running task number: 00000
+2019-10-06 14:53:55,927 - logger_init - _search_meteor_file - 172 - gdas1.mar18.w2 cannot be found. Please download it
+2019-10-06 17:12:27,783 - logger_init - run_HYSPLIT_list - 264 - Running task number: 00000
+2019-10-06 17:12:35,616 - logger_init - run_HYSPLIT_list - 264 - Running task number: 00000
+2019-10-06 17:13:09,230 - logger_init - run_HYSPLIT_list - 264 - Running task number: 00000
+2019-10-06 17:13:41,036 - logger_init - run_HYSPLIT_list - 264 - Running task number: 00000
+2019-10-06 17:14:31,238 - logger_init - run_HYSPLIT_list - 264 - Running task number: 00000
+2019-10-06 17:14:55,393 - logger_init - run_HYSPLIT_list - 264 - Running task number: 00000
+2019-10-06 17:16:31,517 - logger_init - run_HYSPLIT_list - 264 - Running task number: 00000
+2019-10-06 17:17:35,080 - logger_init - run_HYSPLIT_list - 264 - Running task number: 00000
+2019-10-06 17:21:44,587 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00000
+2019-10-06 17:22:02,105 - logger_init - run_HYSPLIT_list - 312 -   0.05% finished. 
+2019-10-06 17:22:02,107 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00001
+2019-10-06 17:22:25,260 - logger_init - run_HYSPLIT_list - 312 -   0.09% finished. 
+2019-10-06 17:22:25,263 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00002
+2019-10-06 17:22:51,028 - logger_init - run_HYSPLIT_list - 312 -   0.14% finished. 
+2019-10-06 17:22:51,031 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00003
+2019-10-06 17:23:20,039 - logger_init - run_HYSPLIT_list - 312 -   0.19% finished. 
+2019-10-06 17:23:20,040 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00004
+2019-10-06 17:23:47,966 - logger_init - run_HYSPLIT_list - 312 -   0.23% finished. 
+2019-10-06 17:23:47,967 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00005
+2019-10-06 17:24:16,173 - logger_init - run_HYSPLIT_list - 312 -   0.28% finished. 
+2019-10-06 17:24:16,176 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00006
+2019-10-06 17:24:44,163 - logger_init - run_HYSPLIT_list - 312 -   0.33% finished. 
+2019-10-06 17:24:44,168 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00007
+2019-10-06 17:25:17,318 - logger_init - run_HYSPLIT_list - 312 -   0.37% finished. 
+2019-10-06 17:25:17,321 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00008
+2019-10-06 17:25:48,863 - logger_init - run_HYSPLIT_list - 312 -   0.42% finished. 
+2019-10-06 17:25:48,865 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00009
+2019-10-06 17:26:18,270 - logger_init - run_HYSPLIT_list - 312 -   0.47% finished. 
+2019-10-06 17:26:18,273 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00010
+2019-10-06 17:26:45,239 - logger_init - run_HYSPLIT_list - 312 -   0.51% finished. 
+2019-10-06 17:26:45,241 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00011
+2019-10-06 17:27:15,970 - logger_init - run_HYSPLIT_list - 312 -   0.56% finished. 
+2019-10-06 17:27:15,974 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00012
+2019-10-06 17:27:44,453 - logger_init - run_HYSPLIT_list - 312 -   0.61% finished. 
+2019-10-06 17:27:44,454 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00013
+2019-10-06 17:28:12,051 - logger_init - run_HYSPLIT_list - 312 -   0.66% finished. 
+2019-10-06 17:28:12,052 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00014
+2019-10-06 17:28:43,504 - logger_init - run_HYSPLIT_list - 312 -   0.70% finished. 
+2019-10-06 17:28:43,508 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00015
+2019-10-06 17:29:15,976 - logger_init - run_HYSPLIT_list - 312 -   0.75% finished. 
+2019-10-06 17:29:15,981 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00016
+2019-10-06 17:29:49,797 - logger_init - run_HYSPLIT_list - 312 -   0.80% finished. 
+2019-10-06 17:29:49,798 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00017
+2019-10-06 17:30:08,433 - logger_init - run_HYSPLIT_list - 312 -   0.84% finished. 
+2019-10-06 17:30:08,443 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00018
+2019-10-06 17:30:10,896 - logger_init - run_HYSPLIT_list - 312 -   0.89% finished. 
+2019-10-06 17:30:10,897 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00019
+2019-10-06 17:30:11,093 - logger_init - run_HYSPLIT_list - 312 -   0.94% finished. 
+2019-10-06 17:30:11,094 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00020
+2019-10-06 17:55:26,413 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00000
+2019-10-06 17:55:37,899 - logger_init - run_HYSPLIT_list - 313 -   0.05% finished. 
+2019-10-06 17:55:37,900 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00001
+2019-10-06 17:55:57,234 - logger_init - run_HYSPLIT_list - 313 -   0.09% finished. 
+2019-10-06 17:55:57,235 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00002
+2019-10-06 17:56:32,481 - logger_init - run_HYSPLIT_list - 313 -   0.14% finished. 
+2019-10-06 17:56:32,482 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00003
+2019-10-06 17:57:04,432 - logger_init - run_HYSPLIT_list - 313 -   0.19% finished. 
+2019-10-06 17:57:04,433 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00004
+2019-10-06 17:57:36,633 - logger_init - run_HYSPLIT_list - 313 -   0.23% finished. 
+2019-10-06 17:57:36,634 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00005
+2019-10-06 17:58:10,742 - logger_init - run_HYSPLIT_list - 313 -   0.28% finished. 
+2019-10-06 17:58:10,743 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00006
+2019-10-06 17:58:43,795 - logger_init - run_HYSPLIT_list - 313 -   0.33% finished. 
+2019-10-06 17:58:43,799 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00007
+2019-10-06 17:59:20,568 - logger_init - run_HYSPLIT_list - 313 -   0.37% finished. 
+2019-10-06 17:59:20,569 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00008
+2019-10-06 17:59:56,510 - logger_init - run_HYSPLIT_list - 313 -   0.42% finished. 
+2019-10-06 17:59:56,512 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00009
+2019-10-06 18:00:28,661 - logger_init - run_HYSPLIT_list - 313 -   0.47% finished. 
+2019-10-06 18:00:28,662 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00010
+2019-10-06 18:01:04,748 - logger_init - run_HYSPLIT_list - 313 -   0.51% finished. 
+2019-10-06 18:01:04,749 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00011
+2019-10-06 18:01:41,193 - logger_init - run_HYSPLIT_list - 313 -   0.56% finished. 
+2019-10-06 18:01:41,194 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00012
+2019-10-06 18:02:16,573 - logger_init - run_HYSPLIT_list - 313 -   0.61% finished. 
+2019-10-06 18:02:16,574 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00013
+2019-10-06 18:02:50,885 - logger_init - run_HYSPLIT_list - 313 -   0.66% finished. 
+2019-10-06 18:02:50,886 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00014
+2019-10-06 18:03:26,516 - logger_init - run_HYSPLIT_list - 313 -   0.70% finished. 
+2019-10-06 18:03:26,517 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00015
+2019-10-06 18:04:05,057 - logger_init - run_HYSPLIT_list - 313 -   0.75% finished. 
+2019-10-06 18:04:05,058 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00016
+2019-10-06 18:04:40,982 - logger_init - run_HYSPLIT_list - 313 -   0.80% finished. 
+2019-10-06 18:04:40,985 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00017
+2019-10-07 10:35:45,251 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00000
+2019-10-07 10:36:03,971 - logger_init - run_HYSPLIT_list - 312 -   0.05% finished. 
+2019-10-07 10:36:03,972 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00001
+2019-10-07 10:36:30,222 - logger_init - run_HYSPLIT_list - 312 -   0.09% finished. 
+2019-10-07 10:36:30,223 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00002
+2019-10-07 10:36:54,985 - logger_init - run_HYSPLIT_list - 312 -   0.14% finished. 
+2019-10-07 10:36:54,986 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00003
+2019-10-07 10:37:21,374 - logger_init - run_HYSPLIT_list - 312 -   0.19% finished. 
+2019-10-07 10:37:21,375 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00004
+2019-10-07 10:37:46,103 - logger_init - run_HYSPLIT_list - 312 -   0.23% finished. 
+2019-10-07 10:37:46,104 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00005
+2019-10-07 10:38:18,207 - logger_init - run_HYSPLIT_list - 312 -   0.28% finished. 
+2019-10-07 10:38:18,208 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00006
+2019-10-07 10:38:52,250 - logger_init - run_HYSPLIT_list - 312 -   0.33% finished. 
+2019-10-07 10:38:52,251 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00007
+2019-10-07 10:39:17,853 - logger_init - run_HYSPLIT_list - 312 -   0.37% finished. 
+2019-10-07 10:39:17,854 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00008
+2019-10-07 10:39:45,225 - logger_init - run_HYSPLIT_list - 312 -   0.42% finished. 
+2019-10-07 10:39:45,226 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00009
+2019-10-07 10:40:15,319 - logger_init - run_HYSPLIT_list - 312 -   0.47% finished. 
+2019-10-07 10:40:15,321 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00010
+2019-10-07 10:40:41,007 - logger_init - run_HYSPLIT_list - 312 -   0.51% finished. 
+2019-10-07 10:40:41,008 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00011
+2019-10-07 10:41:07,043 - logger_init - run_HYSPLIT_list - 312 -   0.56% finished. 
+2019-10-07 10:41:07,044 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00012
+2019-10-07 10:41:40,095 - logger_init - run_HYSPLIT_list - 312 -   0.61% finished. 
+2019-10-07 10:41:40,096 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00013
+2019-10-07 10:42:10,539 - logger_init - run_HYSPLIT_list - 312 -   0.66% finished. 
+2019-10-07 10:42:10,540 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00014
+2019-10-07 10:42:37,876 - logger_init - run_HYSPLIT_list - 312 -   0.70% finished. 
+2019-10-07 10:42:37,878 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00015
+2019-10-07 10:43:06,593 - logger_init - run_HYSPLIT_list - 312 -   0.75% finished. 
+2019-10-07 10:43:06,594 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00016
+2019-10-07 10:43:38,337 - logger_init - run_HYSPLIT_list - 312 -   0.80% finished. 
+2019-10-07 10:43:38,338 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00017
+2019-10-07 10:44:08,012 - logger_init - run_HYSPLIT_list - 312 -   0.84% finished. 
+2019-10-07 10:44:08,013 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00018
+2019-10-07 10:44:38,085 - logger_init - run_HYSPLIT_list - 312 -   0.89% finished. 
+2019-10-07 10:44:38,086 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00019
+2019-10-07 10:45:06,128 - logger_init - run_HYSPLIT_list - 312 -   0.94% finished. 
+2019-10-07 10:45:06,129 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00020
+2019-10-07 10:45:38,547 - logger_init - run_HYSPLIT_list - 312 -   0.98% finished. 
+2019-10-07 10:45:38,552 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00021
+2019-10-07 10:45:53,081 - logger_init - run_HYSPLIT_list - 312 -   1.03% finished. 
+2019-10-07 10:45:53,083 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00022
+2019-10-07 10:46:01,014 - logger_init - run_HYSPLIT_list - 312 -   1.08% finished. 
+2019-10-07 10:46:01,015 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00023
+2019-10-07 10:46:03,842 - logger_init - run_HYSPLIT_list - 312 -   1.12% finished. 
+2019-10-07 10:46:03,845 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00024
+2019-10-07 10:46:19,850 - logger_init - run_HYSPLIT_list - 312 -   1.17% finished. 
+2019-10-07 10:46:19,851 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00025
+2019-10-07 10:46:48,710 - logger_init - run_HYSPLIT_list - 312 -   1.22% finished. 
+2019-10-07 10:46:48,711 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00026
+2019-10-07 10:47:20,031 - logger_init - run_HYSPLIT_list - 312 -   1.26% finished. 
+2019-10-07 10:47:20,033 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00027
+2019-10-07 10:47:52,191 - logger_init - run_HYSPLIT_list - 312 -   1.31% finished. 
+2019-10-07 10:47:52,194 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00028
+2019-10-07 10:48:26,939 - logger_init - run_HYSPLIT_list - 312 -   1.36% finished. 
+2019-10-07 10:48:26,940 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00029
+2019-10-07 10:49:05,281 - logger_init - run_HYSPLIT_list - 312 -   1.40% finished. 
+2019-10-07 10:49:05,317 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00030
+2019-10-07 10:50:02,606 - logger_init - run_HYSPLIT_list - 312 -   1.45% finished. 
+2019-10-07 10:50:02,608 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00031
+2019-10-07 10:50:50,881 - logger_init - run_HYSPLIT_list - 312 -   1.50% finished. 
+2019-10-07 10:50:50,884 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00032
+2019-10-07 10:51:30,607 - logger_init - run_HYSPLIT_list - 312 -   1.54% finished. 
+2019-10-07 10:51:30,612 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00033
+2019-10-07 10:52:05,715 - logger_init - run_HYSPLIT_list - 312 -   1.59% finished. 
+2019-10-07 10:52:05,716 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00034
+2019-10-07 10:52:43,002 - logger_init - run_HYSPLIT_list - 312 -   1.64% finished. 
+2019-10-07 10:52:43,006 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00035
+2019-10-07 10:53:22,633 - logger_init - run_HYSPLIT_list - 312 -   1.69% finished. 
+2019-10-07 10:53:22,635 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00036
+2019-10-07 10:54:03,929 - logger_init - run_HYSPLIT_list - 312 -   1.73% finished. 
+2019-10-07 10:54:03,930 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00037
+2019-10-07 10:54:36,453 - logger_init - run_HYSPLIT_list - 312 -   1.78% finished. 
+2019-10-07 10:54:36,454 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00038
+2019-10-07 10:55:08,115 - logger_init - run_HYSPLIT_list - 312 -   1.83% finished. 
+2019-10-07 10:55:08,117 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00039
+2019-10-07 10:55:54,609 - logger_init - run_HYSPLIT_list - 312 -   1.87% finished. 
+2019-10-07 10:55:54,611 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00040
+2019-10-07 10:56:28,986 - logger_init - run_HYSPLIT_list - 312 -   1.92% finished. 
+2019-10-07 10:56:28,988 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00041
+2019-10-07 10:57:02,391 - logger_init - run_HYSPLIT_list - 312 -   1.97% finished. 
+2019-10-07 10:57:02,393 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00042
+2019-10-07 10:57:42,207 - logger_init - run_HYSPLIT_list - 312 -   2.01% finished. 
+2019-10-07 10:57:42,212 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00043
+2019-10-07 10:58:31,081 - logger_init - run_HYSPLIT_list - 312 -   2.06% finished. 
+2019-10-07 10:58:31,091 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00044
+2019-10-07 10:59:27,974 - logger_init - run_HYSPLIT_list - 312 -   2.11% finished. 
+2019-10-07 10:59:27,979 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00045
+2019-10-07 11:00:15,471 - logger_init - run_HYSPLIT_list - 312 -   2.15% finished. 
+2019-10-07 11:00:15,473 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00046
+2019-10-07 11:00:25,282 - logger_init - run_HYSPLIT_list - 312 -   2.20% finished. 
+2019-10-07 11:00:25,284 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00047
+2019-10-07 11:00:28,786 - logger_init - run_HYSPLIT_list - 312 -   2.25% finished. 
+2019-10-07 11:00:28,787 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00048
+2019-10-07 11:01:03,983 - logger_init - run_HYSPLIT_list - 312 -   2.29% finished. 
+2019-10-07 11:01:03,984 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00049
+2019-10-07 11:01:43,368 - logger_init - run_HYSPLIT_list - 312 -   2.34% finished. 
+2019-10-07 11:01:43,369 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00050
+2019-10-07 11:02:22,069 - logger_init - run_HYSPLIT_list - 312 -   2.39% finished. 
+2019-10-07 11:02:22,073 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00051
+2019-10-07 11:03:00,147 - logger_init - run_HYSPLIT_list - 312 -   2.43% finished. 
+2019-10-07 11:03:00,148 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00052
+2019-10-07 11:03:38,806 - logger_init - run_HYSPLIT_list - 312 -   2.48% finished. 
+2019-10-07 11:03:38,807 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00053
+2019-10-07 11:04:13,156 - logger_init - run_HYSPLIT_list - 312 -   2.53% finished. 
+2019-10-07 11:04:13,157 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00054
+2019-10-07 11:04:42,927 - logger_init - run_HYSPLIT_list - 312 -   2.57% finished. 
+2019-10-07 11:04:42,928 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00055
+2019-10-07 11:05:17,486 - logger_init - run_HYSPLIT_list - 312 -   2.62% finished. 
+2019-10-07 11:05:17,488 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00056
+2019-10-07 11:05:46,640 - logger_init - run_HYSPLIT_list - 312 -   2.67% finished. 
+2019-10-07 11:05:46,641 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00057
+2019-10-07 11:06:19,272 - logger_init - run_HYSPLIT_list - 312 -   2.72% finished. 
+2019-10-07 11:06:19,275 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00058
+2019-10-07 11:06:54,743 - logger_init - run_HYSPLIT_list - 312 -   2.76% finished. 
+2019-10-07 11:06:54,745 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00059
+2019-10-07 11:07:32,502 - logger_init - run_HYSPLIT_list - 312 -   2.81% finished. 
+2019-10-07 11:07:32,503 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00060
+2019-10-07 11:08:06,330 - logger_init - run_HYSPLIT_list - 312 -   2.86% finished. 
+2019-10-07 11:08:06,331 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00061
+2019-10-07 11:08:44,273 - logger_init - run_HYSPLIT_list - 312 -   2.90% finished. 
+2019-10-07 11:08:44,274 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00062
+2019-10-07 11:09:23,059 - logger_init - run_HYSPLIT_list - 312 -   2.95% finished. 
+2019-10-07 11:09:23,060 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00063
+2019-10-07 11:09:57,176 - logger_init - run_HYSPLIT_list - 312 -   3.00% finished. 
+2019-10-07 11:09:57,177 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00064
+2019-10-07 11:10:30,945 - logger_init - run_HYSPLIT_list - 312 -   3.04% finished. 
+2019-10-07 11:10:30,946 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00065
+2019-10-07 11:11:14,425 - logger_init - run_HYSPLIT_list - 312 -   3.09% finished. 
+2019-10-07 11:11:14,427 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00066
+2019-10-07 11:11:53,503 - logger_init - run_HYSPLIT_list - 312 -   3.14% finished. 
+2019-10-07 11:11:53,509 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00067
+2019-10-07 11:12:31,843 - logger_init - run_HYSPLIT_list - 312 -   3.18% finished. 
+2019-10-07 11:12:31,847 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00068
+2019-10-07 11:13:27,615 - logger_init - run_HYSPLIT_list - 312 -   3.23% finished. 
+2019-10-07 11:13:27,635 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00069
+2019-10-07 11:14:18,208 - logger_init - run_HYSPLIT_list - 312 -   3.28% finished. 
+2019-10-07 11:14:18,214 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00070
+2019-10-07 11:14:30,206 - logger_init - run_HYSPLIT_list - 312 -   3.32% finished. 
+2019-10-07 11:14:30,208 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00071
+2019-10-07 11:14:35,671 - logger_init - run_HYSPLIT_list - 312 -   3.37% finished. 
+2019-10-07 11:14:35,677 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00072
+2019-10-07 11:15:17,942 - logger_init - run_HYSPLIT_list - 312 -   3.42% finished. 
+2019-10-07 11:15:17,944 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00073
+2019-10-07 11:15:46,370 - logger_init - run_HYSPLIT_list - 312 -   3.46% finished. 
+2019-10-07 11:15:46,371 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00074
+2019-10-07 11:16:18,978 - logger_init - run_HYSPLIT_list - 312 -   3.51% finished. 
+2019-10-07 11:16:18,980 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00075
+2019-10-07 11:17:02,763 - logger_init - run_HYSPLIT_list - 312 -   3.56% finished. 
+2019-10-07 11:17:02,776 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00076
+2019-10-07 11:17:49,156 - logger_init - run_HYSPLIT_list - 312 -   3.60% finished. 
+2019-10-07 11:17:49,162 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00077
+2019-10-07 11:18:37,026 - logger_init - run_HYSPLIT_list - 312 -   3.65% finished. 
+2019-10-07 11:18:37,028 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00078
+2019-10-07 11:19:25,747 - logger_init - run_HYSPLIT_list - 312 -   3.70% finished. 
+2019-10-07 11:19:25,749 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00079
+2019-10-07 11:20:06,014 - logger_init - run_HYSPLIT_list - 312 -   3.75% finished. 
+2019-10-07 11:20:06,016 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00080
+2019-10-07 11:20:53,168 - logger_init - run_HYSPLIT_list - 312 -   3.79% finished. 
+2019-10-07 11:20:53,170 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00081
+2019-10-07 11:21:29,334 - logger_init - run_HYSPLIT_list - 312 -   3.84% finished. 
+2019-10-07 11:21:29,335 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00082
+2019-10-07 11:22:02,248 - logger_init - run_HYSPLIT_list - 312 -   3.89% finished. 
+2019-10-07 11:22:02,249 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00083
+2019-10-07 11:22:53,424 - logger_init - run_HYSPLIT_list - 312 -   3.93% finished. 
+2019-10-07 11:22:53,425 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00084
+2019-10-07 11:23:26,782 - logger_init - run_HYSPLIT_list - 312 -   3.98% finished. 
+2019-10-07 11:23:26,784 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00085
+2019-10-07 11:24:01,320 - logger_init - run_HYSPLIT_list - 312 -   4.03% finished. 
+2019-10-07 11:24:01,321 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00086
+2019-10-07 11:24:35,708 - logger_init - run_HYSPLIT_list - 312 -   4.07% finished. 
+2019-10-07 11:24:35,711 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00087
+2019-10-07 11:25:08,931 - logger_init - run_HYSPLIT_list - 312 -   4.12% finished. 
+2019-10-07 11:25:08,932 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00088
+2019-10-07 11:25:39,760 - logger_init - run_HYSPLIT_list - 312 -   4.17% finished. 
+2019-10-07 11:25:39,761 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00089
+2019-10-07 11:26:18,728 - logger_init - run_HYSPLIT_list - 312 -   4.21% finished. 
+2019-10-07 11:26:18,730 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00090
+2019-10-07 11:26:52,801 - logger_init - run_HYSPLIT_list - 312 -   4.26% finished. 
+2019-10-07 11:26:52,802 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00091
+2019-10-07 11:27:21,430 - logger_init - run_HYSPLIT_list - 312 -   4.31% finished. 
+2019-10-07 11:27:21,431 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00092
+2019-10-07 11:27:49,362 - logger_init - run_HYSPLIT_list - 312 -   4.35% finished. 
+2019-10-07 11:27:49,363 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00093
+2019-10-07 11:28:18,022 - logger_init - run_HYSPLIT_list - 312 -   4.40% finished. 
+2019-10-07 11:28:18,023 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00094
+2019-10-07 11:28:23,126 - logger_init - run_HYSPLIT_list - 312 -   4.45% finished. 
+2019-10-07 11:28:23,127 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00095
+2019-10-07 11:28:28,238 - logger_init - run_HYSPLIT_list - 312 -   4.49% finished. 
+2019-10-07 11:28:28,239 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00096
+2019-10-07 11:28:51,390 - logger_init - run_HYSPLIT_list - 312 -   4.54% finished. 
+2019-10-07 11:28:51,391 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00097
+2019-10-07 11:29:15,378 - logger_init - run_HYSPLIT_list - 312 -   4.59% finished. 
+2019-10-07 11:29:15,379 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00098
+2019-10-07 11:29:42,719 - logger_init - run_HYSPLIT_list - 312 -   4.63% finished. 
+2019-10-07 11:29:42,720 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00099
+2019-10-07 11:30:09,431 - logger_init - run_HYSPLIT_list - 312 -   4.68% finished. 
+2019-10-07 11:30:09,432 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00100
+2019-10-07 11:30:39,126 - logger_init - run_HYSPLIT_list - 312 -   4.73% finished. 
+2019-10-07 11:30:39,129 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00101
+2019-10-07 11:31:11,179 - logger_init - run_HYSPLIT_list - 312 -   4.78% finished. 
+2019-10-07 11:31:11,180 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00102
+2019-10-07 11:31:41,601 - logger_init - run_HYSPLIT_list - 312 -   4.82% finished. 
+2019-10-07 11:31:41,603 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00103
+2019-10-07 11:32:12,181 - logger_init - run_HYSPLIT_list - 312 -   4.87% finished. 
+2019-10-07 11:32:12,182 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00104
+2019-10-07 11:32:41,304 - logger_init - run_HYSPLIT_list - 312 -   4.92% finished. 
+2019-10-07 11:32:41,305 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00105
+2019-10-07 11:33:13,305 - logger_init - run_HYSPLIT_list - 312 -   4.96% finished. 
+2019-10-07 11:33:13,307 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00106
+2019-10-07 11:33:45,427 - logger_init - run_HYSPLIT_list - 312 -   5.01% finished. 
+2019-10-07 11:33:45,430 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00107
+2019-10-07 11:34:17,670 - logger_init - run_HYSPLIT_list - 312 -   5.06% finished. 
+2019-10-07 11:34:17,672 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00108
+2019-10-07 11:41:01,220 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00000
+2019-10-07 11:41:13,661 - logger_init - run_HYSPLIT_list - 312 -   0.52% finished. 
+2019-10-07 11:41:13,663 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00001
+2019-10-07 11:41:39,380 - logger_init - run_HYSPLIT_list - 312 -   1.04% finished. 
+2019-10-07 11:41:39,383 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00002
+2019-10-07 11:42:05,982 - logger_init - run_HYSPLIT_list - 312 -   1.56% finished. 
+2019-10-07 11:42:05,983 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00003
+2019-10-07 11:42:43,479 - logger_init - run_HYSPLIT_list - 312 -   2.08% finished. 
+2019-10-07 11:42:43,480 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00004
+2019-10-07 11:43:09,470 - logger_init - run_HYSPLIT_list - 312 -   2.60% finished. 
+2019-10-07 11:43:09,472 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00005
+2019-10-07 11:43:33,791 - logger_init - run_HYSPLIT_list - 312 -   3.12% finished. 
+2019-10-07 11:43:33,792 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00006
+2019-10-07 11:43:58,073 - logger_init - run_HYSPLIT_list - 312 -   3.65% finished. 
+2019-10-07 11:43:58,074 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00007
+2019-10-07 11:44:22,595 - logger_init - run_HYSPLIT_list - 312 -   4.17% finished. 
+2019-10-07 11:44:22,596 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00008
+2019-10-07 11:44:48,531 - logger_init - run_HYSPLIT_list - 312 -   4.69% finished. 
+2019-10-07 11:44:48,532 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00009
+2019-10-07 11:45:15,827 - logger_init - run_HYSPLIT_list - 312 -   5.21% finished. 
+2019-10-07 11:45:15,828 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00010
+2019-10-07 11:45:43,862 - logger_init - run_HYSPLIT_list - 312 -   5.73% finished. 
+2019-10-07 11:45:43,863 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00011
+2019-10-07 11:46:10,812 - logger_init - run_HYSPLIT_list - 312 -   6.25% finished. 
+2019-10-07 11:46:10,813 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00012
+2019-10-07 11:46:36,555 - logger_init - run_HYSPLIT_list - 312 -   6.77% finished. 
+2019-10-07 11:46:36,556 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00013
+2019-10-07 11:47:03,307 - logger_init - run_HYSPLIT_list - 312 -   7.29% finished. 
+2019-10-07 11:47:03,308 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00014
+2019-10-07 11:47:30,035 - logger_init - run_HYSPLIT_list - 312 -   7.81% finished. 
+2019-10-07 11:47:30,036 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00015
+2019-10-07 11:47:57,893 - logger_init - run_HYSPLIT_list - 312 -   8.33% finished. 
+2019-10-07 11:47:57,894 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00016
+2019-10-07 11:48:24,393 - logger_init - run_HYSPLIT_list - 312 -   8.85% finished. 
+2019-10-07 11:48:24,394 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00017
+2019-10-07 11:48:50,921 - logger_init - run_HYSPLIT_list - 312 -   9.38% finished. 
+2019-10-07 11:48:50,922 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00018
+2019-10-07 11:49:18,887 - logger_init - run_HYSPLIT_list - 312 -   9.90% finished. 
+2019-10-07 11:49:18,888 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00019
+2019-10-07 11:49:45,704 - logger_init - run_HYSPLIT_list - 312 -  10.42% finished. 
+2019-10-07 11:49:45,706 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00020
+2019-10-07 11:50:16,114 - logger_init - run_HYSPLIT_list - 312 -  10.94% finished. 
+2019-10-07 11:50:16,115 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00021
+2019-10-07 11:50:27,958 - logger_init - run_HYSPLIT_list - 312 -  11.46% finished. 
+2019-10-07 11:50:27,959 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00022
+2019-10-07 11:50:35,446 - logger_init - run_HYSPLIT_list - 312 -  11.98% finished. 
+2019-10-07 11:50:35,448 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00023
+2019-10-07 11:50:38,073 - logger_init - run_HYSPLIT_list - 312 -  12.50% finished. 
+2019-10-07 11:50:38,083 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00024
+2019-10-07 11:50:51,692 - logger_init - run_HYSPLIT_list - 312 -  13.02% finished. 
+2019-10-07 11:50:51,693 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00025
+2019-10-07 11:51:15,681 - logger_init - run_HYSPLIT_list - 312 -  13.54% finished. 
+2019-10-07 11:51:15,682 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00026
+2019-10-07 11:51:42,400 - logger_init - run_HYSPLIT_list - 312 -  14.06% finished. 
+2019-10-07 11:51:42,401 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00027
+2019-10-07 11:52:08,369 - logger_init - run_HYSPLIT_list - 312 -  14.58% finished. 
+2019-10-07 11:52:08,370 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00028
+2019-10-07 11:52:35,795 - logger_init - run_HYSPLIT_list - 312 -  15.10% finished. 
+2019-10-07 11:52:35,797 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00029
+2019-10-07 11:53:00,938 - logger_init - run_HYSPLIT_list - 312 -  15.62% finished. 
+2019-10-07 11:53:00,939 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00030
+2019-10-07 11:53:27,080 - logger_init - run_HYSPLIT_list - 312 -  16.15% finished. 
+2019-10-07 11:53:27,081 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00031
+2019-10-07 11:53:51,732 - logger_init - run_HYSPLIT_list - 312 -  16.67% finished. 
+2019-10-07 11:53:51,733 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00032
+2019-10-07 11:54:17,079 - logger_init - run_HYSPLIT_list - 312 -  17.19% finished. 
+2019-10-07 11:54:17,080 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00033
+2019-10-07 11:54:42,725 - logger_init - run_HYSPLIT_list - 312 -  17.71% finished. 
+2019-10-07 11:54:42,726 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00034
+2019-10-07 11:55:08,842 - logger_init - run_HYSPLIT_list - 312 -  18.23% finished. 
+2019-10-07 11:55:08,843 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00035
+2019-10-07 11:55:34,622 - logger_init - run_HYSPLIT_list - 312 -  18.75% finished. 
+2019-10-07 11:55:34,623 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00036
+2019-10-07 11:56:01,934 - logger_init - run_HYSPLIT_list - 312 -  19.27% finished. 
+2019-10-07 11:56:01,935 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00037
+2019-10-07 11:56:28,719 - logger_init - run_HYSPLIT_list - 312 -  19.79% finished. 
+2019-10-07 11:56:28,720 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00038
+2019-10-07 11:56:57,554 - logger_init - run_HYSPLIT_list - 312 -  20.31% finished. 
+2019-10-07 11:56:57,555 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00039
+2019-10-07 11:57:25,203 - logger_init - run_HYSPLIT_list - 312 -  20.83% finished. 
+2019-10-07 11:57:25,204 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00040
+2019-10-07 11:57:53,556 - logger_init - run_HYSPLIT_list - 312 -  21.35% finished. 
+2019-10-07 11:57:53,558 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00041
+2019-10-07 11:58:22,206 - logger_init - run_HYSPLIT_list - 312 -  21.88% finished. 
+2019-10-07 11:58:22,208 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00042
+2019-10-07 11:58:50,763 - logger_init - run_HYSPLIT_list - 312 -  22.40% finished. 
+2019-10-07 11:58:50,764 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00043
+2019-10-07 11:59:19,191 - logger_init - run_HYSPLIT_list - 312 -  22.92% finished. 
+2019-10-07 11:59:19,193 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00044
+2019-10-07 11:59:48,552 - logger_init - run_HYSPLIT_list - 312 -  23.44% finished. 
+2019-10-07 11:59:48,553 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00045
+2019-10-07 12:00:18,198 - logger_init - run_HYSPLIT_list - 312 -  23.96% finished. 
+2019-10-07 12:00:18,199 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00046
+2019-10-07 12:00:24,177 - logger_init - run_HYSPLIT_list - 312 -  24.48% finished. 
+2019-10-07 12:00:24,178 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00047
+2019-10-07 12:00:26,521 - logger_init - run_HYSPLIT_list - 312 -  25.00% finished. 
+2019-10-07 12:00:26,523 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00048
+2019-10-07 12:00:50,096 - logger_init - run_HYSPLIT_list - 312 -  25.52% finished. 
+2019-10-07 12:00:50,097 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00049
+2019-10-07 12:01:15,225 - logger_init - run_HYSPLIT_list - 312 -  26.04% finished. 
+2019-10-07 12:01:15,227 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00050
+2019-10-07 12:01:40,176 - logger_init - run_HYSPLIT_list - 312 -  26.56% finished. 
+2019-10-07 12:01:40,177 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00051
+2019-10-07 12:02:06,706 - logger_init - run_HYSPLIT_list - 312 -  27.08% finished. 
+2019-10-07 12:02:06,707 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00052
+2019-10-07 12:02:31,476 - logger_init - run_HYSPLIT_list - 312 -  27.60% finished. 
+2019-10-07 12:02:31,477 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00053
+2019-10-07 12:02:55,688 - logger_init - run_HYSPLIT_list - 312 -  28.12% finished. 
+2019-10-07 12:02:55,688 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00054
+2019-10-07 12:03:20,373 - logger_init - run_HYSPLIT_list - 312 -  28.65% finished. 
+2019-10-07 12:03:20,374 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00055
+2019-10-07 12:03:44,765 - logger_init - run_HYSPLIT_list - 312 -  29.17% finished. 
+2019-10-07 12:03:44,766 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00056
+2019-10-07 12:04:09,693 - logger_init - run_HYSPLIT_list - 312 -  29.69% finished. 
+2019-10-07 12:04:09,694 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00057
+2019-10-07 12:04:34,986 - logger_init - run_HYSPLIT_list - 312 -  30.21% finished. 
+2019-10-07 12:04:34,987 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00058
+2019-10-07 12:05:00,344 - logger_init - run_HYSPLIT_list - 312 -  30.73% finished. 
+2019-10-07 12:05:00,345 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00059
+2019-10-07 12:05:25,616 - logger_init - run_HYSPLIT_list - 312 -  31.25% finished. 
+2019-10-07 12:05:25,617 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00060
+2019-10-07 12:05:51,436 - logger_init - run_HYSPLIT_list - 312 -  31.77% finished. 
+2019-10-07 12:05:51,437 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00061
+2019-10-07 12:06:19,282 - logger_init - run_HYSPLIT_list - 312 -  32.29% finished. 
+2019-10-07 12:06:19,283 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00062
+2019-10-07 12:06:46,413 - logger_init - run_HYSPLIT_list - 312 -  32.81% finished. 
+2019-10-07 12:06:46,415 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00063
+2019-10-07 12:07:12,684 - logger_init - run_HYSPLIT_list - 312 -  33.33% finished. 
+2019-10-07 12:07:12,685 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00064
+2019-10-07 12:07:38,924 - logger_init - run_HYSPLIT_list - 312 -  33.85% finished. 
+2019-10-07 12:07:38,925 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00065
+2019-10-07 12:08:05,501 - logger_init - run_HYSPLIT_list - 312 -  34.38% finished. 
+2019-10-07 12:08:05,501 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00066
+2019-10-07 12:08:32,051 - logger_init - run_HYSPLIT_list - 312 -  34.90% finished. 
+2019-10-07 12:08:32,052 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00067
+2019-10-07 12:08:58,448 - logger_init - run_HYSPLIT_list - 312 -  35.42% finished. 
+2019-10-07 12:08:58,450 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00068
+2019-10-07 12:09:24,794 - logger_init - run_HYSPLIT_list - 312 -  35.94% finished. 
+2019-10-07 12:09:24,795 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00069
+2019-10-07 12:09:51,230 - logger_init - run_HYSPLIT_list - 312 -  36.46% finished. 
+2019-10-07 12:09:51,231 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00070
+2019-10-07 12:09:57,391 - logger_init - run_HYSPLIT_list - 312 -  36.98% finished. 
+2019-10-07 12:09:57,392 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00071
+2019-10-07 12:10:00,002 - logger_init - run_HYSPLIT_list - 312 -  37.50% finished. 
+2019-10-07 12:10:00,007 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00072
+2019-10-07 12:10:21,214 - logger_init - run_HYSPLIT_list - 312 -  38.02% finished. 
+2019-10-07 12:10:21,215 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00073
+2019-10-07 12:10:43,540 - logger_init - run_HYSPLIT_list - 312 -  38.54% finished. 
+2019-10-07 12:10:43,541 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00074
+2019-10-07 12:11:07,239 - logger_init - run_HYSPLIT_list - 312 -  39.06% finished. 
+2019-10-07 12:11:07,240 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00075
+2019-10-07 12:11:31,772 - logger_init - run_HYSPLIT_list - 312 -  39.58% finished. 
+2019-10-07 12:11:31,773 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00076
+2019-10-07 12:11:56,033 - logger_init - run_HYSPLIT_list - 312 -  40.10% finished. 
+2019-10-07 12:11:56,034 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00077
+2019-10-07 12:12:20,576 - logger_init - run_HYSPLIT_list - 312 -  40.62% finished. 
+2019-10-07 12:12:20,577 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00078
+2019-10-07 12:12:44,746 - logger_init - run_HYSPLIT_list - 312 -  41.15% finished. 
+2019-10-07 12:12:44,747 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00079
+2019-10-07 12:13:09,292 - logger_init - run_HYSPLIT_list - 312 -  41.67% finished. 
+2019-10-07 12:13:09,293 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00080
+2019-10-07 12:13:34,110 - logger_init - run_HYSPLIT_list - 312 -  42.19% finished. 
+2019-10-07 12:13:34,111 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00081
+2019-10-07 12:13:58,829 - logger_init - run_HYSPLIT_list - 312 -  42.71% finished. 
+2019-10-07 12:13:58,830 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00082
+2019-10-07 12:14:24,225 - logger_init - run_HYSPLIT_list - 312 -  43.23% finished. 
+2019-10-07 12:14:24,227 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00083
+2019-10-07 12:14:49,657 - logger_init - run_HYSPLIT_list - 312 -  43.75% finished. 
+2019-10-07 12:14:49,658 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00084
+2019-10-07 12:15:15,466 - logger_init - run_HYSPLIT_list - 312 -  44.27% finished. 
+2019-10-07 12:15:15,467 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00085
+2019-10-07 12:15:40,948 - logger_init - run_HYSPLIT_list - 312 -  44.79% finished. 
+2019-10-07 12:15:40,949 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00086
+2019-10-07 12:16:07,945 - logger_init - run_HYSPLIT_list - 312 -  45.31% finished. 
+2019-10-07 12:16:07,946 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00087
+2019-10-07 12:16:35,211 - logger_init - run_HYSPLIT_list - 312 -  45.83% finished. 
+2019-10-07 12:16:35,212 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00088
+2019-10-07 12:17:01,083 - logger_init - run_HYSPLIT_list - 312 -  46.35% finished. 
+2019-10-07 12:17:01,084 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00089
+2019-10-07 12:17:27,945 - logger_init - run_HYSPLIT_list - 312 -  46.88% finished. 
+2019-10-07 12:17:27,946 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00090
+2019-10-07 12:17:55,196 - logger_init - run_HYSPLIT_list - 312 -  47.40% finished. 
+2019-10-07 12:17:55,197 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00091
+2019-10-07 12:18:21,602 - logger_init - run_HYSPLIT_list - 312 -  47.92% finished. 
+2019-10-07 12:18:21,603 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00092
+2019-10-07 12:18:48,080 - logger_init - run_HYSPLIT_list - 312 -  48.44% finished. 
+2019-10-07 12:18:48,081 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00093
+2019-10-07 12:19:14,289 - logger_init - run_HYSPLIT_list - 312 -  48.96% finished. 
+2019-10-07 12:19:14,290 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00094
+2019-10-07 12:19:18,629 - logger_init - run_HYSPLIT_list - 312 -  49.48% finished. 
+2019-10-07 12:19:18,630 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00095
+2019-10-07 12:19:23,094 - logger_init - run_HYSPLIT_list - 312 -  50.00% finished. 
+2019-10-07 12:19:23,095 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00096
+2019-10-07 12:19:44,493 - logger_init - run_HYSPLIT_list - 312 -  50.52% finished. 
+2019-10-07 12:19:44,495 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00097
+2019-10-07 12:20:06,714 - logger_init - run_HYSPLIT_list - 312 -  51.04% finished. 
+2019-10-07 12:20:06,715 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00098
+2019-10-07 12:20:30,099 - logger_init - run_HYSPLIT_list - 312 -  51.56% finished. 
+2019-10-07 12:20:30,099 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00099
+2019-10-07 12:20:53,361 - logger_init - run_HYSPLIT_list - 312 -  52.08% finished. 
+2019-10-07 12:20:53,362 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00100
+2019-10-07 12:21:18,377 - logger_init - run_HYSPLIT_list - 312 -  52.60% finished. 
+2019-10-07 12:21:18,378 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00101
+2019-10-07 12:21:43,112 - logger_init - run_HYSPLIT_list - 312 -  53.12% finished. 
+2019-10-07 12:21:43,113 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00102
+2019-10-07 12:22:07,404 - logger_init - run_HYSPLIT_list - 312 -  53.65% finished. 
+2019-10-07 12:22:07,405 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00103
+2019-10-07 12:22:32,072 - logger_init - run_HYSPLIT_list - 312 -  54.17% finished. 
+2019-10-07 12:22:32,074 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00104
+2019-10-07 12:23:00,384 - logger_init - run_HYSPLIT_list - 312 -  54.69% finished. 
+2019-10-07 12:23:00,385 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00105
+2019-10-07 12:23:30,296 - logger_init - run_HYSPLIT_list - 312 -  55.21% finished. 
+2019-10-07 12:23:30,297 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00106
+2019-10-07 12:23:59,065 - logger_init - run_HYSPLIT_list - 312 -  55.73% finished. 
+2019-10-07 12:23:59,066 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00107
+2019-10-07 12:24:27,960 - logger_init - run_HYSPLIT_list - 312 -  56.25% finished. 
+2019-10-07 12:24:27,961 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00108
+2019-10-07 12:24:57,694 - logger_init - run_HYSPLIT_list - 312 -  56.77% finished. 
+2019-10-07 12:24:57,695 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00109
+2019-10-07 12:25:26,983 - logger_init - run_HYSPLIT_list - 312 -  57.29% finished. 
+2019-10-07 12:25:26,984 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00110
+2019-10-07 12:25:56,590 - logger_init - run_HYSPLIT_list - 312 -  57.81% finished. 
+2019-10-07 12:25:56,591 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00111
+2019-10-07 12:26:26,156 - logger_init - run_HYSPLIT_list - 312 -  58.33% finished. 
+2019-10-07 12:26:26,157 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00112
+2019-10-07 12:26:56,503 - logger_init - run_HYSPLIT_list - 312 -  58.85% finished. 
+2019-10-07 12:26:56,504 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00113
+2019-10-07 12:27:26,471 - logger_init - run_HYSPLIT_list - 312 -  59.38% finished. 
+2019-10-07 12:27:26,472 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00114
+2019-10-07 12:27:56,628 - logger_init - run_HYSPLIT_list - 312 -  59.90% finished. 
+2019-10-07 12:27:56,630 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00115
+2019-10-07 12:28:27,176 - logger_init - run_HYSPLIT_list - 312 -  60.42% finished. 
+2019-10-07 12:28:27,177 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00116
+2019-10-07 12:28:56,945 - logger_init - run_HYSPLIT_list - 312 -  60.94% finished. 
+2019-10-07 12:28:56,946 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00117
+2019-10-07 12:29:09,688 - logger_init - run_HYSPLIT_list - 312 -  61.46% finished. 
+2019-10-07 12:29:09,689 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00118
+2019-10-07 12:29:13,749 - logger_init - run_HYSPLIT_list - 312 -  61.98% finished. 
+2019-10-07 12:29:13,750 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00119
+2019-10-07 12:29:18,550 - logger_init - run_HYSPLIT_list - 312 -  62.50% finished. 
+2019-10-07 12:29:18,552 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00120
+2019-10-07 12:29:43,240 - logger_init - run_HYSPLIT_list - 312 -  63.02% finished. 
+2019-10-07 12:29:43,242 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00121
+2019-10-07 12:30:09,803 - logger_init - run_HYSPLIT_list - 312 -  63.54% finished. 
+2019-10-07 12:30:09,805 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00122
+2019-10-07 12:30:37,910 - logger_init - run_HYSPLIT_list - 312 -  64.06% finished. 
+2019-10-07 12:30:37,911 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00123
+2019-10-07 12:31:05,371 - logger_init - run_HYSPLIT_list - 312 -  64.58% finished. 
+2019-10-07 12:31:05,372 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00124
+2019-10-07 12:31:33,093 - logger_init - run_HYSPLIT_list - 312 -  65.10% finished. 
+2019-10-07 12:31:33,094 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00125
+2019-10-07 12:32:01,795 - logger_init - run_HYSPLIT_list - 312 -  65.62% finished. 
+2019-10-07 12:32:01,797 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00126
+2019-10-07 12:32:30,236 - logger_init - run_HYSPLIT_list - 312 -  66.15% finished. 
+2019-10-07 12:32:30,237 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00127
+2019-10-07 12:32:58,468 - logger_init - run_HYSPLIT_list - 312 -  66.67% finished. 
+2019-10-07 12:32:58,469 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00128
+2019-10-07 12:33:27,628 - logger_init - run_HYSPLIT_list - 312 -  67.19% finished. 
+2019-10-07 12:33:27,629 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00129
+2019-10-07 12:33:56,290 - logger_init - run_HYSPLIT_list - 312 -  67.71% finished. 
+2019-10-07 12:33:56,292 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00130
+2019-10-07 12:34:25,919 - logger_init - run_HYSPLIT_list - 312 -  68.23% finished. 
+2019-10-07 12:34:25,920 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00131
+2019-10-07 12:34:56,587 - logger_init - run_HYSPLIT_list - 312 -  68.75% finished. 
+2019-10-07 12:34:56,588 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00132
+2019-10-07 12:35:26,677 - logger_init - run_HYSPLIT_list - 312 -  69.27% finished. 
+2019-10-07 12:35:26,678 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00133
+2019-10-07 12:35:57,151 - logger_init - run_HYSPLIT_list - 312 -  69.79% finished. 
+2019-10-07 12:35:57,152 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00134
+2019-10-07 12:36:28,274 - logger_init - run_HYSPLIT_list - 312 -  70.31% finished. 
+2019-10-07 12:36:28,275 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00135
+2019-10-07 12:36:58,715 - logger_init - run_HYSPLIT_list - 312 -  70.83% finished. 
+2019-10-07 12:36:58,716 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00136
+2019-10-07 12:37:30,330 - logger_init - run_HYSPLIT_list - 312 -  71.35% finished. 
+2019-10-07 12:37:30,331 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00137
+2019-10-07 12:38:01,186 - logger_init - run_HYSPLIT_list - 312 -  71.88% finished. 
+2019-10-07 12:38:01,189 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00138
+2019-10-07 12:38:32,614 - logger_init - run_HYSPLIT_list - 312 -  72.40% finished. 
+2019-10-07 12:38:32,616 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00139
+2019-10-07 12:39:03,510 - logger_init - run_HYSPLIT_list - 312 -  72.92% finished. 
+2019-10-07 12:39:03,511 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00140
+2019-10-07 12:39:34,428 - logger_init - run_HYSPLIT_list - 312 -  73.44% finished. 
+2019-10-07 12:39:34,429 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00141
+2019-10-07 12:39:47,220 - logger_init - run_HYSPLIT_list - 312 -  73.96% finished. 
+2019-10-07 12:39:47,222 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00142
+2019-10-07 12:39:51,392 - logger_init - run_HYSPLIT_list - 312 -  74.48% finished. 
+2019-10-07 12:39:51,393 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00143
+2019-10-07 12:39:56,241 - logger_init - run_HYSPLIT_list - 312 -  75.00% finished. 
+2019-10-07 12:39:56,242 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00144
+2019-10-07 12:40:21,624 - logger_init - run_HYSPLIT_list - 312 -  75.52% finished. 
+2019-10-07 12:40:21,625 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00145
+2019-10-07 12:40:48,161 - logger_init - run_HYSPLIT_list - 312 -  76.04% finished. 
+2019-10-07 12:40:48,162 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00146
+2019-10-07 12:41:15,657 - logger_init - run_HYSPLIT_list - 312 -  76.56% finished. 
+2019-10-07 12:41:15,658 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00147
+2019-10-07 12:41:43,162 - logger_init - run_HYSPLIT_list - 312 -  77.08% finished. 
+2019-10-07 12:41:43,164 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00148
+2019-10-07 12:42:11,475 - logger_init - run_HYSPLIT_list - 312 -  77.60% finished. 
+2019-10-07 12:42:11,476 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00149
+2019-10-07 12:42:40,616 - logger_init - run_HYSPLIT_list - 312 -  78.12% finished. 
+2019-10-07 12:42:40,617 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00150
+2019-10-07 12:43:09,331 - logger_init - run_HYSPLIT_list - 312 -  78.65% finished. 
+2019-10-07 12:43:09,334 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00151
+2019-10-07 12:43:38,826 - logger_init - run_HYSPLIT_list - 312 -  79.17% finished. 
+2019-10-07 12:43:38,827 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00152
+2019-10-07 12:44:08,104 - logger_init - run_HYSPLIT_list - 312 -  79.69% finished. 
+2019-10-07 12:44:08,107 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00153
+2019-10-07 12:44:36,744 - logger_init - run_HYSPLIT_list - 312 -  80.21% finished. 
+2019-10-07 12:44:36,745 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00154
+2019-10-07 12:45:05,617 - logger_init - run_HYSPLIT_list - 312 -  80.73% finished. 
+2019-10-07 12:45:05,618 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00155
+2019-10-07 12:45:34,424 - logger_init - run_HYSPLIT_list - 312 -  81.25% finished. 
+2019-10-07 12:45:34,425 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00156
+2019-10-07 12:46:07,779 - logger_init - run_HYSPLIT_list - 312 -  81.77% finished. 
+2019-10-07 12:46:07,780 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00157
+2019-10-07 12:46:40,133 - logger_init - run_HYSPLIT_list - 312 -  82.29% finished. 
+2019-10-07 12:46:40,135 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00158
+2019-10-07 12:47:10,650 - logger_init - run_HYSPLIT_list - 312 -  82.81% finished. 
+2019-10-07 12:47:10,652 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00159
+2019-10-07 12:47:42,706 - logger_init - run_HYSPLIT_list - 312 -  83.33% finished. 
+2019-10-07 12:47:42,707 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00160
+2019-10-07 12:48:13,924 - logger_init - run_HYSPLIT_list - 312 -  83.85% finished. 
+2019-10-07 12:48:13,925 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00161
+2019-10-07 12:48:47,859 - logger_init - run_HYSPLIT_list - 312 -  84.38% finished. 
+2019-10-07 12:48:47,861 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00162
+2019-10-07 12:49:30,995 - logger_init - run_HYSPLIT_list - 312 -  84.90% finished. 
+2019-10-07 12:49:30,996 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00163
+2019-10-07 12:50:06,172 - logger_init - run_HYSPLIT_list - 312 -  85.42% finished. 
+2019-10-07 12:50:06,173 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00164
+2019-10-07 12:50:46,867 - logger_init - run_HYSPLIT_list - 312 -  85.94% finished. 
+2019-10-07 12:50:46,873 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00165
+2019-10-07 12:51:25,621 - logger_init - run_HYSPLIT_list - 312 -  86.46% finished. 
+2019-10-07 12:51:25,631 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00166
+2019-10-07 12:51:30,450 - logger_init - run_HYSPLIT_list - 312 -  86.98% finished. 
+2019-10-07 12:51:30,452 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00167
+2019-10-07 12:51:36,160 - logger_init - run_HYSPLIT_list - 312 -  87.50% finished. 
+2019-10-07 12:51:36,162 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00168
+2019-10-07 12:52:04,639 - logger_init - run_HYSPLIT_list - 312 -  88.02% finished. 
+2019-10-07 12:52:04,641 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00169
+2019-10-07 12:52:34,417 - logger_init - run_HYSPLIT_list - 312 -  88.54% finished. 
+2019-10-07 12:52:34,420 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00170
+2019-10-07 12:53:09,769 - logger_init - run_HYSPLIT_list - 312 -  89.06% finished. 
+2019-10-07 12:53:09,770 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00171
+2019-10-07 12:53:38,040 - logger_init - run_HYSPLIT_list - 312 -  89.58% finished. 
+2019-10-07 12:53:38,041 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00172
+2019-10-07 12:54:08,568 - logger_init - run_HYSPLIT_list - 312 -  90.10% finished. 
+2019-10-07 12:54:08,569 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00173
+2019-10-07 12:54:38,737 - logger_init - run_HYSPLIT_list - 312 -  90.62% finished. 
+2019-10-07 12:54:38,738 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00174
+2019-10-07 12:55:08,968 - logger_init - run_HYSPLIT_list - 312 -  91.15% finished. 
+2019-10-07 12:55:08,970 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00175
+2019-10-07 12:55:39,618 - logger_init - run_HYSPLIT_list - 312 -  91.67% finished. 
+2019-10-07 12:55:39,619 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00176
+2019-10-07 12:56:10,733 - logger_init - run_HYSPLIT_list - 312 -  92.19% finished. 
+2019-10-07 12:56:10,735 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00177
+2019-10-07 12:56:42,729 - logger_init - run_HYSPLIT_list - 312 -  92.71% finished. 
+2019-10-07 12:56:42,730 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00178
+2019-10-07 12:57:13,470 - logger_init - run_HYSPLIT_list - 312 -  93.23% finished. 
+2019-10-07 12:57:13,471 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00179
+2019-10-07 12:57:43,592 - logger_init - run_HYSPLIT_list - 312 -  93.75% finished. 
+2019-10-07 12:57:43,593 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00180
+2019-10-07 12:58:15,344 - logger_init - run_HYSPLIT_list - 312 -  94.27% finished. 
+2019-10-07 12:58:15,346 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00181
+2019-10-07 12:58:46,797 - logger_init - run_HYSPLIT_list - 312 -  94.79% finished. 
+2019-10-07 12:58:46,799 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00182
+2019-10-07 12:59:18,314 - logger_init - run_HYSPLIT_list - 312 -  95.31% finished. 
+2019-10-07 12:59:18,315 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00183
+2019-10-07 12:59:49,520 - logger_init - run_HYSPLIT_list - 312 -  95.83% finished. 
+2019-10-07 12:59:49,524 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00184
+2019-10-07 13:00:21,263 - logger_init - run_HYSPLIT_list - 312 -  96.35% finished. 
+2019-10-07 13:00:21,264 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00185
+2019-10-07 13:00:54,340 - logger_init - run_HYSPLIT_list - 312 -  96.88% finished. 
+2019-10-07 13:00:54,342 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00186
+2019-10-07 13:01:27,517 - logger_init - run_HYSPLIT_list - 312 -  97.40% finished. 
+2019-10-07 13:01:27,518 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00187
+2019-10-07 13:02:01,527 - logger_init - run_HYSPLIT_list - 312 -  97.92% finished. 
+2019-10-07 13:02:01,528 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00188
+2019-10-07 13:02:37,936 - logger_init - run_HYSPLIT_list - 312 -  98.44% finished. 
+2019-10-07 13:02:37,938 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00189
+2019-10-07 13:03:13,123 - logger_init - run_HYSPLIT_list - 312 -  98.96% finished. 
+2019-10-07 13:03:13,124 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00190
+2019-10-07 13:03:17,004 - logger_init - run_HYSPLIT_list - 312 -  99.48% finished. 
+2019-10-07 13:03:17,006 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00191
+2019-10-07 13:03:21,504 - logger_init - run_HYSPLIT_list - 312 - 100.00% finished. 
