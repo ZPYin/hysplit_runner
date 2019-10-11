@@ -35,16 +35,17 @@ conda install python=3.6
 pip install -r requirements.txt
 ```
 
-**configure hysplit_runner**
+**installation**
 
-and make sure you setup the correct paths for HYSPLIT model.
+```text
+python setup.py install
+```
 
-****
+After the installation, you can import the `hysplit_runner` into your python script. You can also have a quick introduction by reading the ［`examples`](example/run_HYSPLIT_example.py)
 
+## Contact
 
-
-
-
+Zhenping <ZP.Yin@whu.edu.cn>
 
 
 [1]: https://www.ready.noaa.gov/HYSPLIT.php
