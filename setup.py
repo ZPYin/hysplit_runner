@@ -31,7 +31,7 @@ def find_version(*file_paths):
 
 # Run setup
 setup(name='hysplit_runner',
-      packages=['src', 'config', 'data'],
+      packages=['hysplit_runner', 'config', 'data'],
       package_data={
         # If any package contains *.txt or *.rst files, include them:
         'config': ['*.toml*'],
@@ -39,7 +39,7 @@ setup(name='hysplit_runner',
         'data': ['*.csv'],
                     },
 
-      version=find_version("src", "__init__.py"),
+      version=find_version("hysplit_runner", "__init__.py"),
       description='Package for running HYSPLIT model',
       long_description=long_description,
       url='https://github.com/ZPYin/hysplit_runner',

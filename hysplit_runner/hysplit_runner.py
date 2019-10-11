@@ -14,7 +14,7 @@ import fnmatch
 import datetime as dt
 import numpy as np
 from subprocess import check_call
-from logger_init import logger_def
+from hysplit_runner.logger_init import logger_def
 import csv
 
 
@@ -335,9 +335,11 @@ class HYSPLIT(object):
         )
 
         # setup the CONTROL file for the task
-        self.write_control_file(start_time, coords, meteorFileList, hours,
-                                vertical_type, init_height,
-                                tdump_file=tdump_file)
+        self._write_control_file(
+            start_time, coords, meteorFileList, hours,
+            vertical_type, init_height,
+            tdump_file=os.path.join(tdump_file)
+            )
 
         if mode is 'std':
             flag = self.run_HYSPLIT_std()
