@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Hysplit runner.
+HYSPLIT runner.
 
-2019-10-06 Modified by Zhenping Yin
+2019-10-06 Created by Zhenping Yin
 """
 
 import os
@@ -39,7 +39,7 @@ def daterange(date1, date2):
         yield date1 + dt.timedelta(n)
 
 
-class HysplitRunner(object):
+class HYSPLIT(object):
     """
     HYSPLIT trajectory model runner.
     """
@@ -53,9 +53,9 @@ class HysplitRunner(object):
         self.hysplit_working_dir = hysplit_working_dir
         self.hysplit_tdump_dir = hysplit_tdump_dir
 
-    def write_control_file(self, start_time, coords, meteor_list, hours,
-                           vertical_type, init_height, *args,
-                           tdump_file=''):
+    def _write_control_file(self, start_time, coords, meteor_list, hours,
+                            vertical_type, init_height, *args,
+                            tdump_file=''):
         """
         Setup the CONTROL file for HYSPLIT model.
 
@@ -78,7 +78,8 @@ class HysplitRunner(object):
             3 isopycnal (constant density)
             4 isohypsic (constant internal sigma coord)
             5 from velocity divergence
-            6 something wacky to convert from msl to HYSPLIT's above ground level
+            6 something wacky to convert from msl to HYSPLIT's above ground
+              level
             7 spatially averaged vertical velocity
 
         init_height: list
@@ -185,7 +186,7 @@ class HysplitRunner(object):
         with open(os.devnull, 'w') as FNULL:
             try:
                 check_call(
-                           os.path.join(self.hysplit_exe_dir, 'hyts_std.exe'),
+                           os.path.join(self.hysplit_exe_dir, 'hyts_std'),
                            shell=False,
                            cwd=self.hysplit_working_dir,
                            stdout=FNULL
@@ -256,7 +257,7 @@ class HysplitRunner(object):
         with open(os.devnull, 'w') as FNULL:
             try:
                 check_call(
-                           os.path.join(self.hysplit_exe_dir, 'hyts_ens.exe'),
+                           os.path.join(self.hysplit_exe_dir, 'hyts_ens'),
                            shell=False,
                            cwd=self.hysplit_working_dir,
                            stdout=FNULL
@@ -293,7 +294,8 @@ class HysplitRunner(object):
             3 isopycnal (constant density)
             4 isohypsic (constant internal sigma coord)
             5 from velocity divergence
-            6 something wacky to convert from msl to HYSPLIT's above ground level
+            6 something wacky to convert from msl to HYSPLIT's above ground
+              level
             7 spatially averaged vertical velocity
 
         init_height: list
@@ -309,6 +311,11 @@ class HysplitRunner(object):
 
         tdump_file: str
         filename of the output results
+
+        Returns
+        -------
+        flag: boolean
+        flag to show whether the HYSPLIT model was executed successfully.
 
         History
         -------
@@ -340,10 +347,32 @@ class HysplitRunner(object):
             logger.warning('Unknow HYSPLIT mode: {}'.format(mode))
             flag = False
 
+        return flag
+
     def run_HYSPLIT_list(self, taskFile, *args,
-                         meteor_dir='', mode='ens'):
+                         meteor_dir='', mode='ens', station="wuhan"):
         """
         Run HYSPLIT with the given task list file.
+
+        Parameters
+        ----------
+        taskFile: str
+        .csv file to specify the HYSPLIT trajectory tasks.
+
+        Keywords
+        --------
+        meteor_dir: str
+        directory for saving the global meteorological files.
+
+        mode: str
+        HYSPLIT trajectory mode. ('ens' or 'std')
+
+        station: str
+        station name, which will be appended to the output files of HYSPLIT.
+
+        History
+        -------
+        2019-10-10. First edition by Zhenping
         """
 
         if (not os.path.exists(taskFile)) or (not os.path.isfile(taskFile)):
@@ -372,8 +401,10 @@ class HysplitRunner(object):
             hours = int(hours)
             ending_time = dt.datetime(year, month, day, hour)
             tdump_file = os.path.join(
-                "limassol-{y:04d}{m:02d}{d:02d}-{h:02d}-{height:06.0f}_0{hours:04d}.tdump"
+                "{station}-{y:04d}{m:02d}{d:02d}-{h:02d}" +
+                "-{height:06.0f}_0{hours:04d}.tdump"
                 .format(
+                    station=station,
                     y=year,
                     m=month,
                     d=day,
@@ -389,21 +420,3 @@ class HysplitRunner(object):
             logger.info('{0:6.2f}% finished. '.format(
                 (indx + 1)/len(taskList) * 100
             ))
-
-
-def main():
-    runner = HysplitRunner(hysplit_tdump_dir="C:\\Users\\zhenping\\Desktop\\hysplit_runner\\data\\tdump")
-    # runner.run_HYSPLIT(dt.datetime(2019, 9, 1),
-    #                    [(-30, 50)],
-    #                    -144,
-    #                    0,
-    #                    [2000],
-    #                    meteor_source='GDAS1',
-    #                    meteor_dir='C:\\Users\\zhenping\\Documents\\Data\\GDAS\\global\\',
-    #                    tdump_file='test1.tdump'
-    #                    )
-    runner.run_HYSPLIT_list('C:\\Users\\zhenping\\Desktop\\hysplit_runner\\data\\hysplit_input_limassol_20180314_00.csv',
-     meteor_dir='C:\\Users\\zhenping\\Documents\\Data\\GDAS\\global\\')
-
-if __name__ == '__main__':
-    main()

@@ -3,13 +3,10 @@
 # History
 #   2019-10-06. First edition by Zhenping
 
-[OS]
-OS = 'windows'
-
 [HYSPLIT]
 # working directory for HYSPLIT to write CONTROL file. need write access
-WORKING_DIR = "C:\\hysplit4\\working"
+WORKING_DIR = "/Users/yinzhenping/Hysplit4/working"
 # write directory for HYSPLIT output files. need write access (can be anywhere)
-TDUMP_DIR = 'C:\\Users\\zhenping\\Desktop\\hysplit_runner\\data\\tdump'
+TDUMP_DIR = "/Users/yinzhenping/Desktop/hysplit_runner/data/tdump"
 # pathname for HYSPLIT executable files
-EXE_DIR = 'C:\\hysplit4\\exec'
+EXE_DIR = "/Users/yinzhenping/Hysplit4/exec"

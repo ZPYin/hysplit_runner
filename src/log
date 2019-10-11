@@ -696,3 +696,92 @@
 2019-10-07 13:03:17,004 - logger_init - run_HYSPLIT_list - 312 -  99.48% finished. 
 2019-10-07 13:03:17,006 - logger_init - run_HYSPLIT_list - 263 - Running task number: 00191
 2019-10-07 13:03:21,504 - logger_init - run_HYSPLIT_list - 312 - 100.00% finished. 
+2019-10-10 19:15:26,319 - logger_init - run_HYSPLIT_list - 350 - C:\Users\zhenping\Desktop\hysplit_runner\data\hysplit_input_limassol_20180314_00.csv does not exist.
+2019-10-10 20:03:27,223 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00000
+2019-10-10 20:03:27,229 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,229 - logger_init - run_HYSPLIT_list - 390 -   4.17% finished. 
+2019-10-10 20:03:27,229 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00001
+2019-10-10 20:03:27,233 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,233 - logger_init - run_HYSPLIT_list - 390 -   8.33% finished. 
+2019-10-10 20:03:27,234 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00002
+2019-10-10 20:03:27,237 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,237 - logger_init - run_HYSPLIT_list - 390 -  12.50% finished. 
+2019-10-10 20:03:27,238 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00003
+2019-10-10 20:03:27,241 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,241 - logger_init - run_HYSPLIT_list - 390 -  16.67% finished. 
+2019-10-10 20:03:27,241 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00004
+2019-10-10 20:03:27,245 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,246 - logger_init - run_HYSPLIT_list - 390 -  20.83% finished. 
+2019-10-10 20:03:27,246 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00005
+2019-10-10 20:03:27,249 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,250 - logger_init - run_HYSPLIT_list - 390 -  25.00% finished. 
+2019-10-10 20:03:27,250 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00006
+2019-10-10 20:03:27,255 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,256 - logger_init - run_HYSPLIT_list - 390 -  29.17% finished. 
+2019-10-10 20:03:27,256 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00007
+2019-10-10 20:03:27,260 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,261 - logger_init - run_HYSPLIT_list - 390 -  33.33% finished. 
+2019-10-10 20:03:27,261 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00008
+2019-10-10 20:03:27,267 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,268 - logger_init - run_HYSPLIT_list - 390 -  37.50% finished. 
+2019-10-10 20:03:27,268 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00009
+2019-10-10 20:03:27,272 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,272 - logger_init - run_HYSPLIT_list - 390 -  41.67% finished. 
+2019-10-10 20:03:27,272 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00010
+2019-10-10 20:03:27,276 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,276 - logger_init - run_HYSPLIT_list - 390 -  45.83% finished. 
+2019-10-10 20:03:27,277 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00011
+2019-10-10 20:03:27,281 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,282 - logger_init - run_HYSPLIT_list - 390 -  50.00% finished. 
+2019-10-10 20:03:27,282 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00012
+2019-10-10 20:03:27,287 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,288 - logger_init - run_HYSPLIT_list - 390 -  54.17% finished. 
+2019-10-10 20:03:27,288 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00013
+2019-10-10 20:03:27,291 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,292 - logger_init - run_HYSPLIT_list - 390 -  58.33% finished. 
+2019-10-10 20:03:27,292 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00014
+2019-10-10 20:03:27,296 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,297 - logger_init - run_HYSPLIT_list - 390 -  62.50% finished. 
+2019-10-10 20:03:27,297 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00015
+2019-10-10 20:03:27,303 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,303 - logger_init - run_HYSPLIT_list - 390 -  66.67% finished. 
+2019-10-10 20:03:27,303 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00016
+2019-10-10 20:03:27,307 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,307 - logger_init - run_HYSPLIT_list - 390 -  70.83% finished. 
+2019-10-10 20:03:27,308 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00017
+2019-10-10 20:03:27,312 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,313 - logger_init - run_HYSPLIT_list - 390 -  75.00% finished. 
+2019-10-10 20:03:27,313 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00018
+2019-10-10 20:03:27,318 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,318 - logger_init - run_HYSPLIT_list - 390 -  79.17% finished. 
+2019-10-10 20:03:27,319 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00019
+2019-10-10 20:03:27,322 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,323 - logger_init - run_HYSPLIT_list - 390 -  83.33% finished. 
+2019-10-10 20:03:27,323 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00020
+2019-10-10 20:03:27,327 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,327 - logger_init - run_HYSPLIT_list - 390 -  87.50% finished. 
+2019-10-10 20:03:27,327 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00021
+2019-10-10 20:03:27,333 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,334 - logger_init - run_HYSPLIT_list - 390 -  91.67% finished. 
+2019-10-10 20:03:27,334 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00022
+2019-10-10 20:03:27,337 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,338 - logger_init - run_HYSPLIT_list - 390 -  95.83% finished. 
+2019-10-10 20:03:27,338 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00023
+2019-10-10 20:03:27,342 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 20:03:27,342 - logger_init - run_HYSPLIT_list - 390 - 100.00% finished. 
+2019-10-10 20:05:04,419 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00000
+2019-10-10 20:09:16,791 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 23:24:50,189 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00000
+2019-10-10 23:25:58,946 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00000
+2019-10-10 23:26:00,759 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 23:26:05,803 - logger_init - run_HYSPLIT_list - 390 -   4.17% finished. 
+2019-10-10 23:26:07,091 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00001
+2019-10-10 23:26:35,382 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 23:26:35,385 - logger_init - run_HYSPLIT_list - 390 -   8.33% finished. 
+2019-10-10 23:26:35,386 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00002
+2019-10-10 23:26:40,256 - logger_init - run_HYSPLIT_ens - 265 - Failure in running HYSPLIT std.
+2019-10-10 23:26:40,258 - logger_init - run_HYSPLIT_list - 390 -  12.50% finished. 
+2019-10-10 23:26:40,259 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00003
+2019-10-10 23:33:02,766 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00000
+2019-10-10 23:33:22,660 - logger_init - run_HYSPLIT_list - 390 -   4.17% finished. 
+2019-10-10 23:33:22,661 - logger_init - run_HYSPLIT_list - 362 - Running task number: 00001
