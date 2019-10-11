@@ -124,30 +124,45 @@ class HYSPLIT(object):
 
         return os.path.join(self.hysplit_tdump_dir, tdump_file)
 
-    def _search_meteor_file(self, start_time, stop_time, *args,
-                            meteor_source='GDAS1', meteor_dir):
+    def _search_GDAS1_meteor_file(self, start_time, stop_time, *args,
+                                  meteor_dir):
         """
-        setup the meteorological file list.
-
-        History
-        -------
-        2019-10-06 First edition by Zhenping.
+        search the GDAS1 meteorological files that can cover the time span
+        from `start_time` to `start_time`.
         """
 
         def gdas1_fname_from_date(dt):
             """
             Return the GDAS1 filename with the given datetime.
             """
-            months = {1: 'jan', 2: 'feb', 3: 'mar', 4: 'apr',
-                      5: 'may', 6: 'jun', 7: 'jul', 8: 'aug',
-                      9: 'sep', 10: 'oct', 11: 'nov', 12: 'dec'}
-            week_no = ((dt.day-1)//7)+1
 
-            return 'gdas1.{}{}.w{}'.format(
-                months[dt.month],
-                dt.strftime('%y'),
-                week_no
-                )
+            months = {
+                1: 'jan', 2: 'feb', 3: 'mar', 4: 'apr', 5: 'may', 6: 'jun',
+                7: 'jul', 8: 'aug', 9: 'sep', 10: 'oct', 11: 'nov', 12: 'dec'
+                }
+            week_no = ((dt.day - 1) // 7) + 1
+
+            # determine the current 7 days
+            currentday_start = (week_no - 1) * 7 + 1
+            currentDate = datetime.datetime.now()
+            currentDate_weekstart = datetime.datetime(
+                currentDate.year,
+                currentDate.month,
+                currentday_start
+            )
+            if (dt >= currentDate_weekstart) and (dt <= currentDate):
+                gdas1File = 'current7days'
+            elif (dt > currentDate):
+                logger.info('GDAS1 file for input date is not ready yet.')
+                raise FileNotFoundError
+            elif (dt < currentDate_weekstart):
+                gdas1File = 'gdas1.{}{}.w{}'.format(
+                    months[dt.month],
+                    dt.strftime('%y'),
+                    week_no
+                    )
+
+            return gdas1File
 
         start_time_list = [date for date in daterange(start_time, stop_time)]
         meteor_files = list(
@@ -175,6 +190,31 @@ class HYSPLIT(object):
                 logger.error('{} cannot be found. Please download it'.
                              format(meteor_file))
                 raise FileNotFoundError
+
+        return filtered_meteor_files
+
+    def _search_meteor_file(self, start_time, stop_time, *args,
+                            meteor_source='GDAS1', meteor_dir):
+        """
+        setup the meteorological file list.
+
+        History
+        -------
+        2019-10-06 First edition by Zhenping.
+        """
+
+        if not (os.path.exists(meteor_dir)):
+            logger.error('{} does not exist.'.format(meteor_dir))
+            raise FileNotFoundError
+
+        if meteor_source.lower() is "gdas1":
+            filtered_meteor_files = self._search_GDAS1_meteor_file(
+                start_time, stop_time,
+                meteor_dir=meteor_dir
+            )
+        else:
+            logger.error('Unsupported meteorological data source.')
+            raise KeyError
 
         return filtered_meteor_files
 
