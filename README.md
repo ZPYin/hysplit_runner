@@ -41,7 +41,7 @@ pip install -r requirements.txt
 python setup.py install
 ```
 
-After the installation, you can import the `hysplit_runner` into your python script. You can also have a quick introduction by reading the ［`examples`](example/run_HYSPLIT_example.py)
+After the installation, you can import the `hysplit_runner` into your python script. You can also have a quick introduction by reading the [`examples`](example/run_HYSPLIT_example.py)
 
 ## Contact
 
