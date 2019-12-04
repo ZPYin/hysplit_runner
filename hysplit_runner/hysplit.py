@@ -11,6 +11,7 @@ import glob
 import re
 import toml
 import fnmatch
+import datetime
 import datetime as dt
 import numpy as np
 from subprocess import check_call
@@ -143,8 +144,9 @@ class HYSPLIT(object):
             week_no = ((dt.day - 1) // 7) + 1
 
             # determine the current 7 days
-            currentday_start = (week_no - 1) * 7 + 1
             currentDate = datetime.datetime.now()
+            currentWeek_no = ((currentDate.day - 1) // 7) + 1
+            currentday_start = (currentWeek_no - 1) * 7 + 1
             currentDate_weekstart = datetime.datetime(
                 currentDate.year,
                 currentDate.month,
@@ -207,7 +209,7 @@ class HYSPLIT(object):
             logger.error('{} does not exist.'.format(meteor_dir))
             raise FileNotFoundError
 
-        if meteor_source.lower() is "gdas1":
+        if meteor_source.lower() == "gdas1":
             filtered_meteor_files = self._search_GDAS1_meteor_file(
                 start_time, stop_time,
                 meteor_dir=meteor_dir
@@ -378,7 +380,7 @@ class HYSPLIT(object):
         self._write_control_file(
             start_time, coords, meteorFileList, hours,
             vertical_type, init_height,
-            tdump_file=os.path.join(tdump_file)
+            tdump_file=tdump_file
             )
 
         if mode is 'std':
@@ -443,14 +445,14 @@ class HYSPLIT(object):
             hours = int(hours)
             ending_time = dt.datetime(year, month, day, hour)
             tdump_file = os.path.join(
-                "{station}-{y:04d}{m:02d}{d:02d}-{h:02d}" +
-                "-{height:06.0f}_0{hours:04d}.tdump"
-                .format(
+                "{station}-{y:04d}{m:02d}{d:02d}-{h:02d}".format(
                     station=station,
                     y=year,
                     m=month,
                     d=day,
-                    h=hour,
+                    h=hour
+                    ) +
+                "-{height:06.0f}_0{hours:04d}.tdump".format(
                     height=height,
                     hours=hours
                     )
