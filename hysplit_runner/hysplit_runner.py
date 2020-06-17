@@ -131,7 +131,7 @@ class HYSPLIT(object):
         from `start_time` to `start_time`.
         """
 
-        def gdas1_fname_from_date(dt):
+        def gdas1_fname_from_date(time):
             """
             Return the GDAS1 filename with the given datetime.
             """
@@ -140,25 +140,25 @@ class HYSPLIT(object):
                 1: 'jan', 2: 'feb', 3: 'mar', 4: 'apr', 5: 'may', 6: 'jun',
                 7: 'jul', 8: 'aug', 9: 'sep', 10: 'oct', 11: 'nov', 12: 'dec'
                 }
-            week_no = ((dt.day - 1) // 7) + 1
+            week_no = ((time.day - 1) // 7) + 1
 
             # determine the current 7 days
             currentday_start = (week_no - 1) * 7 + 1
-            currentDate = datetime.datetime.now()
-            currentDate_weekstart = datetime.datetime(
+            currentDate = dt.datetime.now()
+            currentDate_weekstart = dt.datetime(
                 currentDate.year,
                 currentDate.month,
                 currentday_start
             )
-            if (dt >= currentDate_weekstart) and (dt <= currentDate):
+            if (time >= currentDate_weekstart) and (time <= currentDate):
                 gdas1File = 'current7days'
-            elif (dt > currentDate):
+            elif (time > currentDate):
                 logger.info('GDAS1 file for input date is not ready yet.')
                 raise FileNotFoundError
-            elif (dt < currentDate_weekstart):
+            elif (time < currentDate_weekstart):
                 gdas1File = 'gdas1.{}{}.w{}'.format(
-                    months[dt.month],
-                    dt.strftime('%y'),
+                    months[time.month],
+                    time.strftime('%y'),
                     week_no
                     )
 
@@ -207,7 +207,7 @@ class HYSPLIT(object):
             logger.error('{} does not exist.'.format(meteor_dir))
             raise FileNotFoundError
 
-        if meteor_source.lower() is "gdas1":
+        if meteor_source.lower() == "gdas1":
             filtered_meteor_files = self._search_GDAS1_meteor_file(
                 start_time, stop_time,
                 meteor_dir=meteor_dir
