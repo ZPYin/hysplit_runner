@@ -11,6 +11,7 @@ import glob
 import re
 import toml
 import fnmatch
+import datetime
 import datetime as dt
 import numpy as np
 from subprocess import check_call
@@ -378,7 +379,7 @@ class HYSPLIT(object):
         self._write_control_file(
             start_time, coords, meteorFileList, hours,
             vertical_type, init_height,
-            tdump_file=os.path.join(tdump_file)
+            tdump_file=tdump_file
             )
 
         if mode is 'std':
@@ -443,14 +444,14 @@ class HYSPLIT(object):
             hours = int(hours)
             ending_time = dt.datetime(year, month, day, hour)
             tdump_file = os.path.join(
-                "{station}-{y:04d}{m:02d}{d:02d}-{h:02d}" +
-                "-{height:06.0f}_0{hours:04d}.tdump"
-                .format(
+                "{station}-{y:04d}{m:02d}{d:02d}-{h:02d}".format(
                     station=station,
                     y=year,
                     m=month,
                     d=day,
-                    h=hour,
+                    h=hour
+                    ) +
+                "-{height:06.0f}_0{hours:04d}.tdump".format(
                     height=height,
                     hours=hours
                     )
