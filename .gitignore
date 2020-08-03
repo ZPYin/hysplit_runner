@@ -1,5 +1,10 @@
+*.tdump
+*/log
+data/
+config/*.toml
+hysplit_runner/__pycache__
 .vscode/
+build/
 dist/
 hysplit_runner.egg-info/
-build/
-hysplit_runner/__pycache__/
+notebook/
