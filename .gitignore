@@ -1,0 +1,5 @@
+.vscode/
+dist/
+hysplit_runner.egg-info/
+build/
+hysplit_runner/__pycache__/
