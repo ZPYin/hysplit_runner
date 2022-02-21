@@ -1,10 +1,16 @@
-*.tdump
-*/log
-data/
-config/*.toml
-hysplit_runner/__pycache__
-.vscode/
+# exclude folders
 build/
 dist/
 hysplit_runner.egg-info/
 notebook/
+tmp/
+data/
+*/log
+
+# exclude editor config files
+.vscode/
+
+# exclude intermidiate files
+hysplit_runner/__pycache__
+*.tdump
+config/*.toml

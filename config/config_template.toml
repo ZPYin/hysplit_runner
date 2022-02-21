@@ -5,8 +5,8 @@
 
 [HYSPLIT]
 # working directory for HYSPLIT to write CONTROL file. need write access
-WORKING_DIR = "C:\\hysplit4\\working"
-# write directory for HYSPLIT output files. need write access (can be anywhere)
-TDUMP_DIR = "C:\\Users\\zpyin\\Desktop\\hysplit_runner\\data\\tdump"
+WORKING_DIR = ""
+# write directory for HYSPLIT output files (with write access).
+TDUMP_DIR = ""
 # pathname for HYSPLIT executable files
-EXE_DIR = "C:\\hysplit4\\exec"
+EXE_DIR = ""

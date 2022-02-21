@@ -226,7 +226,7 @@ class HYSPLIT(object):
 
         with open(os.devnull, 'w') as FNULL:
             try:
-                check_call(
+                res = check_call(
                            os.path.join(self.hysplit_exe_dir, 'hyts_std'),
                            shell=False,
                            cwd=self.hysplit_working_dir,
@@ -304,7 +304,7 @@ class HYSPLIT(object):
                            stdout=FNULL
                         )
             except Exception as e:
-                logger.error('Failure in running HYSPLIT std.')
+                logger.error('Failure in running HYSPLIT ens.')
                 return False
 
         return True
