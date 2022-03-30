@@ -20,7 +20,7 @@ import csv
 
 
 PROJECTDIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CONFIGFILE = os.path.join(PROJECTDIR, 'config', 'config.toml')
+CONFIGFILE = os.path.join(PROJECTDIR, 'hysplit_runner', 'config.toml')
 logger = logger_def()
 
 # load default configurations
@@ -144,8 +144,9 @@ class HYSPLIT(object):
             week_no = ((time.day - 1) // 7) + 1
 
             # determine the current 7 days
-            currentday_start = (week_no - 1) * 7 + 1
             currentDate = dt.datetime.now()
+            currentWeekNo = ((currentDate.day - 1) // 7) + 1
+            currentday_start = (currentWeekNo - 1) * 7 + 1
             currentDate_weekstart = dt.datetime(
                 currentDate.year,
                 currentDate.month,
